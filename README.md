@@ -1,2 +1,5 @@
 # cZespolona
-complex numbers class project
+Complex numbers class project
+- operators
+- object-Oriented programming
+
